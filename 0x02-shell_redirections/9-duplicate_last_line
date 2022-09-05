@@ -1,2 +1,2 @@
 #!/bin/bash
-'tail -n l iacta >> iacta' >> 0x02-shell_redirections
+tail -n l iacta >> iacta >> 0x02-shell_redirections
