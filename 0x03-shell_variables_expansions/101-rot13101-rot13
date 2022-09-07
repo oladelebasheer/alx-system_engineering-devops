@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 'a script that encodes and decodes text' | tr 'A-Za-z' 'N-ZA-Mn-za-m'
