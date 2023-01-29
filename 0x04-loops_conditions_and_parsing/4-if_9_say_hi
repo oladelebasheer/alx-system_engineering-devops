@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# Print 10 times Best School with While Loop
+# but for the 9th iteration, displays Best School and then Hi
+
+for i in {1..10}; do
+  if [ $i == 9 ]; then
+    echo "Best School"
+    echo "Hi"
+  else
+    echo "Best School"
+  fi
+done
