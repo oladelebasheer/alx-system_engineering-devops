@@ -2,11 +2,14 @@
 # Print 10 times Best School with While Loop
 # but for the 9th iteration, displays Best School and then Hi
 
-for i in {1..10}; do
-  if [ $i == 9 ]; then
-    echo "Best School"
-    echo "Hi"
-  else
-    echo "Best School"
-  fi
+i=1
+while [ $i -le 10 ]
+do
+    echo "Holberton School"
+    if [ "$i" -eq 9 ]
+    then
+	echo "Hi"
+    fi
+
+    ((i++))
 done
