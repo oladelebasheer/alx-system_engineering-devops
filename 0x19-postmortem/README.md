@@ -1,4 +1,4 @@
-
+![meeting](https://github.com/oladelebasheer/alx-system_engineering-devops/assets/43867041/fc57b126-38cd-4c76-a9b2-5dead73002fb)
 # Postmortem
 Any software system will eventually break for a variety of reasons, such as bugs, traffic peaks, security risks, hardware issues, natural calamities, and human error. Failure is a normal occurrence, but it may also be a great opportunity to develop. Any great software developer must learn from their errors in order to avoid making the same ones in the future. Failure is OK, but repeating it for the same issue is not.
  An effective tool in the technology sector is the postmortem. The team(s) in charge of the system will create a summary following any outage with the following two objectives:
