@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 # Postmortem
+=======
+Postmortem
+
+Any software system will eventually break for a variety of reasons, such as bugs, traffic peaks, security risks, hardware issues, natural calamities, and human error. Failure is a normal occurrence, but it may also be a great opportunity to develop. Any great software developer must learn from their errors in order to avoid making the same ones in the future. Failure is OK, but repeating it for the same issue is not.
+>>>>>>> b01362f00b165b761175d1ea2248ca55cf2d9fb7
 
     Any software system will eventually break for a variety of reasons, such as bugs, traffic peaks, security risks, hardware issues, natural calamities, and human error. Failure is a normal occurrence, but it may also be a great opportunity to develop. Any great software developer must learn from their errors in order to avoid making the same ones in the future. Failure is OK, but repeating it for the same issue is not.
 
