@@ -1,4 +1,23 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+# Postmortem
+=======
+Postmortem
+=======
+# Postmortem
+>>>>>>> 71213570a0fb68140322f02c4436632a5b374b51
+
+Any software system will eventually break for a variety of reasons, such as bugs, traffic peaks, security risks, hardware issues, natural calamities, and human error. Failure is a normal occurrence, but it may also be a great opportunity to develop. Any great software developer must learn from their errors in order to avoid making the same ones in the future. Failure is OK, but repeating it for the same issue is not.
+>>>>>>> b01362f00b165b761175d1ea2248ca55cf2d9fb7
+
+    Any software system will eventually break for a variety of reasons, such as bugs, traffic peaks, security risks, hardware issues, natural calamities, and human error. Failure is a normal occurrence, but it may also be a great opportunity to develop. Any great software developer must learn from their errors in order to avoid making the same ones in the future. Failure is OK, but repeating it for the same issue is not.
+
+    An effective tool in the technology sector is the postmortem. The team(s) in charge of the system will create a summary following any outage with the following two objectives:
+
+<<<<<<< HEAD
+=======
+Moreover, to guarantee that the underlying cause(s) of the outage have been identified and that steps have been made to assure that it will be remedied.
+<<<<<<< HEAD
 # Postmortem
 =======
 Postmortem
@@ -10,6 +29,7 @@ Any software system will eventually break for a variety of reasons, such as bugs
 
     An effective tool in the technology sector is the postmortem. The team(s) in charge of the system will create a summary following any outage with the following two objectives:
 
+>>>>>>> 71213570a0fb68140322f02c4436632a5b374b51
     To make information about the reason for the outage accessible to the rest of the staff at the firm. Managers and executives must grasp what happened and how it will affect their job because outages frequently have a significant negative impact on a firm.
 
     Moreover, to guarantee that the underlying cause(s) of the outage have been identified and that steps have been made to assure that it will be remedied.
@@ -38,3 +58,7 @@ Any software system will eventually break for a variety of reasons, such as bugs
     - We choose new system to manage our loadbalancing algorithm.
     - Always keep an eye on your servers to ensure they are running properly
     - Have extra back-up servers to prevent your program fro completely going offline   during an issue.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 71213570a0fb68140322f02c4436632a5b374b51
